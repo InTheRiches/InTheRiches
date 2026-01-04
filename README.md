@@ -1,4 +1,4 @@
-<h3 align="center">I do stuff. (riches.exe#3743)</h3>
+<h3 align="center">I do stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intheriches&label=Profile%20views&color=0e75b6&style=flat" alt="intheriches" /> </p>
 
